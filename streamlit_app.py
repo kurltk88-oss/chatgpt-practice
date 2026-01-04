@@ -90,7 +90,7 @@ def talk_to_chatgpt(system_prompt):
 
 print(st.secrets['key'])
 
-st.title("🎈 My new app")
+st.title("🎈 My new hehe")
 st.write(
     get_standard_response('you are chatgpt','why does streamlit secrets suck')
 )
